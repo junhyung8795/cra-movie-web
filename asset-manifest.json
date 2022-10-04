@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cra-movie-web/static/css/main.602064ef.css",
+    "main.js": "/cra-movie-web/static/js/main.d91c1678.js",
+    "index.html": "/cra-movie-web/index.html",
+    "main.602064ef.css.map": "/cra-movie-web/static/css/main.602064ef.css.map",
+    "main.d91c1678.js.map": "/cra-movie-web/static/js/main.d91c1678.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.602064ef.css",
+    "static/js/main.d91c1678.js"
+  ]
+}
