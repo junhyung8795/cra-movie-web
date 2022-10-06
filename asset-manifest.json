@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cra-movie-web/static/css/main.0fb3fb47.css",
-    "main.js": "/cra-movie-web/static/js/main.3c58d8b8.js",
+    "main.css": "/cra-movie-web/static/css/main.0a63db35.css",
+    "main.js": "/cra-movie-web/static/js/main.0cd82848.js",
     "index.html": "/cra-movie-web/index.html",
-    "main.0fb3fb47.css.map": "/cra-movie-web/static/css/main.0fb3fb47.css.map",
-    "main.3c58d8b8.js.map": "/cra-movie-web/static/js/main.3c58d8b8.js.map"
+    "main.0a63db35.css.map": "/cra-movie-web/static/css/main.0a63db35.css.map",
+    "main.0cd82848.js.map": "/cra-movie-web/static/js/main.0cd82848.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fb3fb47.css",
-    "static/js/main.3c58d8b8.js"
+    "static/css/main.0a63db35.css",
+    "static/js/main.0cd82848.js"
   ]
 }
